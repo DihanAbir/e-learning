@@ -1,0 +1,15 @@
+.mainsection{
+   
+}
+.learningMainsection{
+    width: 70%;
+    padding-right: 50px;
+}
+.popularSection{
+    width:30%;
+}
+
+.coursetitle{
+    text-align: center;
+    color: azure;
+}

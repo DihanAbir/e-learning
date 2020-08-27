@@ -1,0 +1,27 @@
+.header{
+  display: flex;
+  align-items: center;
+}
+.header .logo{
+    float: right;
+}
+.nav ul {
+    list-style: none;
+}
+a{
+    color: rgb(253, 253, 253)!important;
+    text-decoration: none!important;
+}
+.nav ul li {
+    
+    float: left;
+    margin: 23px;
+    background-color: gray;
+    padding:7px 15px;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.nav ul li:hover{
+    text-decoration: none;
+    background-color: rgb(29, 133, 133);
+}

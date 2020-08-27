@@ -1,0 +1,28 @@
+.course-details{
+    background-color:rgb(86, 73, 172);
+    padding:60px;
+    margin-top: 40px;
+    border-bottom-right-radius: 60px;
+}
+.course-details .image img{
+    box-shadow: 10px 10px 4px rgb(182, 81, 81);
+    border-radius:20px;
+}
+p{
+    font-size: 25px;
+    color: azure;
+}
+.main-button{
+    color:#000;
+    padding:10px 30px;
+    border-radius: 40px;
+    background-color: gold;
+    font-size: 18px;
+    font-weight: bold;
+    outline-color: none !important;
+}
+.main-button:hover{
+    color:rgb(56, 54, 54);
+    background-color: rgb(255, 176, 5);
+    
+}
